@@ -1,0 +1,6 @@
+Youtube Tutorial:
+https://youtu.be/ngc9gnGgUdA
+
+JavaScript mastery
+
+Full Stack MERN Project - Build and Deploy an App | React + Redux, Node, Express, MongoDB
